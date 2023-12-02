@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\abc281\\Count_down\\Cargo.toml"
+    ],
+    "rust-analyzer.checkOnSave.command": "clippy",
+    "editor.formatOnSave": true
+}
